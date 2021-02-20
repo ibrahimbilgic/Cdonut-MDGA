@@ -1,0 +1,1 @@
+gcc mtest.c -o mtest.o -lm

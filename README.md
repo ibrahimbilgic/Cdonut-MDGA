@@ -16,6 +16,3 @@ Wait a minute! Actually i don't know what the question was.
 >> source: https://www.youtube.com/watch?v=DEqXNfs_HhY
 
 >>> About donut math: https://www.a1k0n.net/2011/07/20/donut-math.html
-
-
-![](https://github.com/ibrahimbilgic/Cdonut-MDGA/blob/master/gif/donut.gif)

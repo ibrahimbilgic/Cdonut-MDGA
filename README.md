@@ -1,8 +1,6 @@
 ## Ingredients
 ### 1. C 
 ### 2. 42
-### 3. Sense of Humor
-
 
 ## Main subject: What is the meaning of life? 
 
